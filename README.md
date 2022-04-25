@@ -27,8 +27,7 @@ Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ)
 - To fix Samsung Health root detection, I recommend using [SamsungAppsPatcher](https://adil.hanney.org/SamsungAppsPatcher/)
 
 ### Known bugs:
-- Night Mode in camera: Taking a photo with the ultra wide cam will give you an error, but the photo will still save. The main cam does not have this problem. This issue is only present in night mode and nowhere else.
-- Please report, if you find any
+- None. Please report, if you find any
 
 #### Added OS Features:
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
