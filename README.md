@@ -1,6 +1,6 @@
 ![a52banner](https://i.imgur.com/Xp3zFk2.png)
 # A52-Hidden-Mods
-Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ) this version is modified by me to work on the A52.
+Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ). This version is modified by me to work on the A52.
 
 
 #### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
