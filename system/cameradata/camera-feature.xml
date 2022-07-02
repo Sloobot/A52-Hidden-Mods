@@ -122,6 +122,7 @@
     <local name="SUPPORT_CLOSE_UP_SUGGESTION" value="true"/>
     <local name="SUPPORT_FOCUS_GUIDE" value="true"/>
     <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true" />
+	<local name="SUPPORT_MACRO_NUDGE" value="true" />
 
 
     <!-- Live focus & bokeh -->
@@ -192,9 +193,11 @@
     <local name="REMOSAIC_CAPTURE_LOW_PERFORMANCE" value="true"/>
     <local name="LOW_PERFORMANCE_RECORDING_VI" value="true" />
     <local name="SUPPORT_CAMERA_APP_ENTRY_PERFORMANCE" value="true" />
+	<local name="USE_EARLY_ZOOM_VIEW_INFLATION" value="true" />
     <local name="SUPPORT_SWITCH_RECORDING_WITH_VIDEO_STABILIZATION" value="false" />
     <local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
     <local name="MAX_POST_PROCESSING_COUNT_FOR_CAPTURE" value="3" />
+	<local name="SUPPORT_LOW_PERFORMANCE_REMOSAIC_CAPTURE" value="true"/>
 
     <!-- AF features -->
     <local name="SUPPORT_MULTI_AF" value="false"/>
@@ -281,10 +284,24 @@
     <local name="SUPPORT_IPP_EFFECT_CAPTURE_IN_CORE2" value="true"/>
     <local name="SUPPORT_VDIS_CENTER_CROP_FOR_PREVIEW_RECORDING" value="true"/>    
     <local name="SUPPORT_AUTO_HDR_MENU" value="true"/>
+	<local name="SUPPORT_CAMERA_DEBUG_INFO" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
 
     <!-- temporary enable for QC -->
     <local name="SUPPORT_SAVE_AS_FLIPPED_IN_MEDIA_RECORDER" value="true" />
+	
+	    <!-- new pro/pro video features -->
+    <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true"/>
+    <local name="SUPPORT_PRO_RESET" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_RESET" value="true" />	
+    <local name="SUPPORT_PRO_VIDEO_RESOLUTION_SETTING" value="true" />
+    <local name="SUPPORT_HISTOGRAM" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_AUDIO_INPUT_CONTROL" value="true"/>
+    <local name="SUPPORT_PRO_COLOR_TUNE_TEMPERATURE" value="true"/>
+    <local name="SUPPORT_BACK_TELE_PRO" value="true"/>
+    <local name="SUPPORT_HDR_RICH_TONE_MENU" value="true"/>
 </resources>
