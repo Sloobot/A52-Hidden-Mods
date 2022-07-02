@@ -1,6 +1,7 @@
-### Only for the Android 12 April security patch (A526BXXS1CVD1)
+### Only for the Android 12 June security patch (A526BXXU1CVF4)
 Running on devices with another patch can cause issues!
 
 ---
 <b> Changelog:</b>
-<br/>• Updated APKs 
+<br/>• Improved camera performance
+<br/>• Added new pro/pro video features
