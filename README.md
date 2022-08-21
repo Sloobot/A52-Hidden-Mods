@@ -2,6 +2,7 @@
 # A52-Hidden-Mods
 Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ). This version is modified by me to work on the A52.
 
+If you're looking for the A52s version change the branch to a52s or click here https://github.com/Sloobot/A52-Hidden-Mods/tree/a52s
 
 #### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
 
