@@ -10,7 +10,7 @@ Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ)
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
 
-> Note: It should only be used on the Galaxy A52 (SM-A526B) running the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
+> Note: It should only be used on the Galaxy A52s 5G (SM-A528B) running the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
 ### Troubleshooting:
 - If camera app crashes (or other issues like error on 64MP mode) please clear camera app data.
