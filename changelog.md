@@ -4,4 +4,4 @@ Running on devices with another patch can cause issues!
 ---
 <b> Changelog:</b>
 <br/>• Added native Applock thanks to @ShaDisNX255 
-
+(To open the app download Activity Launcher search for applock and open activity .settings.AppLockSettingsActivity)
