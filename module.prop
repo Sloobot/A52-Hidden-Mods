@@ -1,7 +1,7 @@
 id=a52mods
 name=A52 Hidden Mods
-version=v2.5.0
-versionCode=39
+version=v2.5.2
+versionCode=40
 author=Sloobot & UltraHQ
 description=This module adds many Camera and OS mods. See the GitHub Page for a full list of additions
 updateJson=https://raw.githubusercontent.com/Sloobot/A52-Hidden-Mods/main/update.json
