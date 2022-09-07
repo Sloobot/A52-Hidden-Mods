@@ -1,7 +1,7 @@
-### Only for the Android 12 July security patch (A526BXXU1CVG2)
+### Only for the Android 12 August security patch (A526BXXU1CVG6)
 Running on devices with another patch can cause issues!
 
 ---
 <b> Changelog:</b>
-<br/>• Added raw image capture thanks to @ShaDisNX255 
+<br/>• Added native Applock thanks to @ShaDisNX255 
 
