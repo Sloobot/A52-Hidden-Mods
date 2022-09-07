@@ -31,6 +31,7 @@ If you're looking for the A52s version change the branch to a52s or click here h
 - None. Please report, if you find any
 
 #### Added OS Features:
+- Added Native AppLock
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
 - Disabled Samsung Marketing
 - High-End Animations
