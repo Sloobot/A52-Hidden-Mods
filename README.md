@@ -31,7 +31,7 @@ If you're looking for the A52s version change the branch to a52s or click here h
 - None. Please report, if you find any
 
 #### Added OS Features:
-- Added Native AppLock
+- Added Native AppLock (To open the app download Activity Launcher search for applock and open activity .settings.AppLockSettingsActivity)
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
 - Disabled Samsung Marketing
 - High-End Animations
