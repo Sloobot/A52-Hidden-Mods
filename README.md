@@ -1,5 +1,8 @@
 ![a52banner](https://i.imgur.com/Xp3zFk2.png)
 # A52-Hidden-Mods
+
+# ⚠️ - No support given anymore. I bought a S22 Ultra and i will no longer be able to update this module. If you want to keep this project alive you can fork it and add your own updates, fixes etc.
+
 Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ). This version is modified by me to work on the A52.
 
 If you're looking for the A52s version change the branch to a52s or click here https://github.com/Sloobot/A52-Hidden-Mods/tree/a52s
